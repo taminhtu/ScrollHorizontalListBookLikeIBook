@@ -2,7 +2,7 @@
 
 Photo of the app:
 
-![alt text](https://github.com/taminhtu/SimpleSiderMenu/blob/master/Create%20Simple%20Sidebar%20Swift%20iOS.gif)
+![alt text](https://github.com/taminhtu/ScrollHorizontalListBookLikeIBook/blob/master/demo_scrolling_list_of_books.gif)
 
 
 You can watch the video here:
