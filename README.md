@@ -1,6 +1,6 @@
 # ScrollHorizontalListBookLikeIBook
 
-This source code is about "Horizontal List of Books like the Top Charts of Apple iBook App", there are steps to do the source code:
+This source code is about "Horizontal List of Books like the Top Charts of Apple iBook App" on Swift 4 and using XCode 9 (2018), there are steps to do the source code:
 Step 1: Create Simple App 
 Step 2: Open the Story board and add:
  - The table with 1 prototype cell 
